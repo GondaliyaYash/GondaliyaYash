@@ -41,7 +41,7 @@ Growth      : Continuously improving Java & Automation skills
 ## 💡 Key Achievements
 
 | Achievement | Details |
-|---|---|
+|:---|:---|
 | 🚀 Automation Coverage | Designed and executed **24 automation test cases (100% pass rate)** |
 | 🔍 Defect Discovery | Identified **real defects in live applications** |
 | 🧪 Framework | Built **Hybrid Automation Framework (BDD + POM + TestNG)** |
@@ -52,26 +52,35 @@ Growth      : Continuously improving Java & Automation skills
 
 ## 🛠️ Tech Stack
 
-### 🧪 Testing
+**🧪 Testing**
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-informational?style=flat-square&logo=testcafe&logoColor=white&color=0d1117)
-![API Testing](https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0d1117?style=flat-square&logo=testcafe&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
-### 💻 Tools & Technologies
+**💻 Tools & Technologies**
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-Framework-E6142D?style=flat-square&logo=testing-library&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-E6142D?style=flat-square&logo=testing-library&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🤖 AI Tools
+**🤖 AI Tools**
 
-![Claude AI](https://img.shields.io/badge/Claude-AI-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI-8957E5?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+## 📈 Currently Learning
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Java Advanced](https://img.shields.io/badge/Java_Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-FF6C37?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ---
 
@@ -111,6 +120,14 @@ Growth      : Continuously improving Java & Automation skills
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GondaliyaYash&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -124,13 +141,29 @@ Growth      : Continuously improving Java & Automation skills
 
 ---
 
+## 📉 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GondaliyaYash&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6C37" width="100%" />
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GondaliyaYash/GondaliyaYash/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GondaliyaYash/GondaliyaYash/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/GondaliyaYash/GondaliyaYash/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/GondaliyaYash">
     <img src="https://img.shields.io/badge/GitHub-GondaliyaYash-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/yashgondaliya17/">
     <img src="https://img.shields.io/badge/LinkedIn-yashgondaliya17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
