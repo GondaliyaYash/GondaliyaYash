@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-GondaliyaYash-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GondaliyaYash)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-GondaliyaYash-161b22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/GondaliyaYash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Gondaliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashgondaliya17/)
 
 </div>
@@ -40,27 +40,27 @@ Growth      : Continuously improving Java & Automation skills
 
 ## 💡 Key Achievements
 
-| Achievement | Details |
-|:---|:---|
-| 🚀 Automation Coverage | Designed and executed **24 automation test cases (100% pass rate)** |
-| 🔍 Defect Discovery | Identified **real defects in live applications** |
-| 🧪 Framework | Built **Hybrid Automation Framework (BDD + POM + TestNG)** |
-| 🔗 API Testing | Performed **end-to-end API testing with defect reporting** |
-| 🤖 AI Productivity | Used **AI tools to accelerate testing workflow by ~90%** |
+🚀 **Automation Coverage** — Designed and executed **24 automation test cases (100% pass rate)**
+
+🔍 **Defect Discovery** — Identified **real defects in live applications**
+
+🧪 **Framework Built** — **Hybrid Automation Framework (BDD + POM + TestNG)**
+
+🔗 **API Testing** — Performed **end-to-end API testing with defect reporting**
+
+🤖 **AI Productivity** — Used **AI tools to accelerate testing workflow by ~90%**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**🧪 Testing**
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0d1117?style=flat-square&logo=testcafe&logoColor=white)
+**🧪 Testing**&nbsp;&nbsp;
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-1f6feb?style=flat-square&logo=checkmarx&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-00A818?style=flat-square&logo=cucumber&logoColor=white)
 
-**💻 Tools & Technologies**
-
+**💻 Tools & Technologies**&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-E6142D?style=flat-square&logo=testing-library&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
@@ -68,55 +68,27 @@ Growth      : Continuously improving Java & Automation skills
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**🤖 AI Tools**
-
+**🤖 AI Tools**&nbsp;&nbsp;
 ![Claude AI](https://img.shields.io/badge/Claude_AI-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=flat-square&logo=githubcopilot&logoColor=white)
 
----
-
-## 📈 Currently Learning
-
+**📈 Currently Learning**&nbsp;&nbsp;
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Java Advanced](https://img.shields.io/badge/Java_Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Performance Testing](https://img.shields.io/badge/Performance_Testing-FF6C37?style=flat-square&logo=apachejmeter&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-C71A36?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="bottom" align="center">
-      <b>🤖 AI-Driven Test Automation</b><br/><br/>
-      <a href="https://github.com/GondaliyaYash/ai-driven-test-automation-framework">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="bottom" align="center">
-      <b>🔧 Hybrid Automation Framework</b><br/><br/>
-      <a href="https://github.com/GondaliyaYash/HybridAutomationFramework">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="50%" valign="bottom" align="center">
-      <b>🛒 ShopEase Manual API Testing</b><br/><br/>
-      <a href="https://github.com/GondaliyaYash/ShopEase-Manual-API-Testing">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="bottom" align="center">
-      <b>🎓 Student Portal Web App</b><br/><br/>
-      <a href="https://github.com/GondaliyaYash/StudentPortalWeb">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+🤖 **AI-Driven Test Automation** &nbsp;[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/GondaliyaYash/ai-driven-test-automation-framework)
+
+🔧 **Hybrid Automation Framework** &nbsp;[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/GondaliyaYash/HybridAutomationFramework)
+
+🛒 **ShopEase Manual API Testing** &nbsp;[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/GondaliyaYash/ShopEase-Manual-API-Testing)
+
+🎓 **Student Portal Web App** &nbsp;[![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/GondaliyaYash/StudentPortalWeb)
 
 ---
 
@@ -131,19 +103,12 @@ Growth      : Continuously improving Java & Automation skills
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GondaliyaYash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GondaliyaYash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GondaliyaYash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&card_width=320" height="150" />
+  <img src="https://streak-stats.demolab.com?user=GondaliyaYash&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=58A6FF&card_width=320" height="150" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GondaliyaYash&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=58A6FF" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GondaliyaYash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&card_width=660" height="150" />
 </p>
-
----
-
-## 📉 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GondaliyaYash&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6C37" width="100%" />
 
 ---
 
@@ -161,9 +126,9 @@ Growth      : Continuously improving Java & Automation skills
 
 <p align="center">
   <a href="https://github.com/GondaliyaYash">
-    <img src="https://img.shields.io/badge/GitHub-GondaliyaYash-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-GondaliyaYash-161b22?style=for-the-badge&logo=github&logoColor=58A6FF" />
   </a>
-  
+  &nbsp;
   <a href="https://www.linkedin.com/in/yashgondaliya17/">
     <img src="https://img.shields.io/badge/LinkedIn-yashgondaliya17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
